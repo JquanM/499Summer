@@ -1,4 +1,4 @@
-# 499Summer
+# Capstone Project Idea
 
 I would like to make either a fitness app or fitness website that allows the user to create detailed workout routines in. This app should provide help for doing so by letting the user know what exercises help which parts of their body, possibly provide links and videos related to specific workouts for additional help with form and advice, and give advice on the weight to use depending on the user's goals (bulking, cutting, maintaining, etc.). 
 
